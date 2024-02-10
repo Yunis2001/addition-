@@ -6,6 +6,8 @@ public class Addition{
     int num1;
     int num2;
     int sum;
-    
+
+    System.out.println("Enter the first number");
+    num1 = input.nextint();
   }
 }
