@@ -9,5 +9,9 @@ public class Addition{
 
     System.out.println("Enter the first number");
     num1 = input.nextint();
+
+    System.out.println("Enter the second number");
+    num2 = input.nextint();
+    
   }
 }
