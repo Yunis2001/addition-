@@ -12,6 +12,8 @@ public class Addition{
 
     System.out.println("Enter the second number");
     num2 = input.nextint();
-    
+
+    sum = num1 +num2;
+    System.out.println("Sum is :", sum);
   }
 }
